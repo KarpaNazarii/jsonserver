@@ -1,24 +1,107 @@
 [
   {
     "id":"1",
-    "titleBlog":"Firts blog title",
-    "text":"This is text of first blog Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ornare convallis non etiam tincidunt tincidunt. Non dolor vel purus id. Blandit habitasse volutpat id dolor pretium, sem iaculis. Faucibus commodo mauris enim, turpis blandit. Porttitor facilisi viverra mi lacus lacinia accumsan. Pellentesque gravida ligula bibendum aliquet nulla massa elit. Ac faucibus donec sit morbi pharetra urna. Vel facilisis amet placerat ultrices lobortis proin nulla. Molestie tellus sed pellentesque tortor vitae eu cras nisl. Sem facilisi amet vitae ultrices nullam tellus. Pellentesque eget iaculis morbi at quis eget lacus, aliquam etiam. Neque ipsum, placerat vel convallis nulla orci, nunc etiam. Elementum risus facilisi mauris diam amet et sed. At aliquet id amet, viverra a magna lorem urna. Nibh scelerisque quam quam massa amet, sollicitudin vel non. Gravida laoreet neque tincidunt eu egestas massa vitae nibh. Nec ullamcorper amet tortor, velit. Dictum pellentesque dolor sit duis sed nibh. Euismod rutrum pellentesque semper mattis aliquet ornare. Cursus maecenas massa, arcu ac adipiscing odio facilisis ac eu. In eget ipsum, sed ultrices tempor consequat, elementum cras porta. Sagittis etiam dictumst at duis praesent a. Malesuada odio amet aenean diam. Tincidunt lorem faucibus neque aliquet lobortis feugiat sed aliquam pulvinar. Praesent aliquet ut tempus feugiat placerat quis duis mauris nibh. Eu ullamcorper id feugiat sit risus turpis mi. Tristique posuere sed convallis magna eu vulputate. Cum sit in hac felis blandit. Cursus eu porta lectus mollis nisi, consectetur ac. Ornare vitae lectus iaculis nibh ac et. Adipiscing amet in parturient etiam fames. Facilisi id eu sem in elementum. Lacus, ipsum morbi vel purus ut arcu laoreet id eu. Libero, tincidunt aliquet parturient dolor sapien faucibus nunc. In ipsum suscipit nec pharetra non vitae sagittis aenean sit. Consequat integer sit netus pellentesque scelerisque ut. Elit augue dui viverra facilisi varius. Volutpat iaculis eu ipsum ut. Dui, ut viverra ut amet magna in in varius. Aliquet penatibus pretium feugiat lobortis. Mauris nunc, eu non massa donec sit duis. Libero nascetur mauris, ac in aliquet cras duis donec. Sit porttitor sociis aliquam aliquet odio arcu a viverra. Proin convallis bibendum venenatis non orci id proin vitae. Faucibus eleifend fermentum sit dictum sagittis fermentum. At id nisi, aliquet ut sagittis proin enim. Eget in aenean mi a elit viverra amet urna, diam. Cursus id viverra amet adipiscing. Pretium, amet amet mi mauris urna, maecenas. Risus ut sit quis donec. Lacinia elementum, amet gravida convallis elementum, metus cras. Adipiscing suspendisse etiam tellus tellus arcu. At accumsan rhoncus, fringilla ut scelerisque consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ornare convallis non etiam tincidunt tincidunt. Non dolor vel purus id. Blandit habitasse volutpat id dolor pretium, sem iaculis. Faucibus commodo mauris enim, turpis blandit. Porttitor facilisi viverra mi lacus lacinia accumsan. Pellentesque gravida ligula bibendum aliquet nulla massa elit. Ac faucibus donec sit morbi pharetra urna. Vel facilisis amet placerat ultrices lobortis proin nulla.",
+    "titleBlog":"Northern California authorities are investigating a motive after a suspect allegedly killed 7 and critically injured 1",
+    "text":"<b>CNN</b>
+      Authorities in Northern California are working to determine the motive of a suspect they said killed seven people and injured one in two separate areas of a small coastal city, becoming one of at least three communities in the state to mourn lives lost to mass shootings in three days.
+
+      The suspect, Chunli Zhao, 67, was taken into custody Monday after deputies found him in a vehicle in the parking lot of a sheriff’s substation more than two hours after the shootings in Half Moon Bay, according to San Mateo County Sheriff Christina Corpus.
+
+      “This kind of shooting is horrific,” Corpus said of the violence in the community of some 11,000 residents about 30 miles south of San Francisco. “It’s a tragedy that we hear about far too often but today has hit home here in San Mateo County,” she said during a news conference Monday night.
+
+      The horror unfolded around 2:22 p.m. local time Monday when deputies learned of the shooting in an unincorporated area of San Mateo County, Corpus added.
+
+      01 half moon bay shooting 012323
+      At least 7 dead, 1 injured and suspect in custody after shootings in Half Moon Bay, California, official says
+      One shooting occurred at a mushroom farm and another near a trucking facility, approximately two miles from the farm, according to Dave Pine, president of the San Mateo County Board of Supervisors.
+
+      At one shooting scene, officers found four victims dead and one wounded, Corpus said. Shortly after, three more victims were found dead at a separate site, she added. When asked to clarify which location the first shooting occurred in, Corpus told reporters that’s still under investigation.
+
+      The injured person was in critical condition at a local hospital Monday night, Corpus said.
+
+      During the investigation, Zhao was identified as a suspect and was later found sitting inside his vehicle at the substation, a statement from the sheriff’s office said.
+
+      Zhao was taken into custody without incident around 4:40 p.m., and a semi-automatic handgun was found in his vehicle at that time, Corpus said.
+
+      Investigators were working with the district attorney to interview Zhao, the sheriff said.";   
     "date":"June 29th, 2021",
-    "category":"sport"
+    "category":"CNN"
   },
   {
     "id":"2",
-    "titleBlog":"Second blog title",
-    "text":"This is text of second blog Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ornare convallis non etiam tincidunt tincidunt. Non dolor vel purus id. Blandit habitasse volutpat id dolor pretium, sem iaculis. Faucibus commodo mauris enim, turpis blandit. Porttitor facilisi viverra mi lacus lacinia accumsan. Pellentesque gravida ligula bibendum aliquet nulla massa elit. Ac faucibus donec sit morbi pharetra urna. Vel facilisis amet placerat ultrices lobortis proin nulla. Molestie tellus sed pellentesque tortor vitae eu cras nisl. Sem facilisi amet vitae ultrices nullam tellus. Pellentesque eget iaculis morbi at quis eget lacus, aliquam etiam. Neque ipsum, placerat vel convallis nulla orci, nunc etiam. Elementum risus facilisi mauris diam amet et sed. At aliquet id amet, viverra a magna lorem urna. Nibh scelerisque quam quam massa amet, sollicitudin vel non. Gravida laoreet neque tincidunt eu egestas massa vitae nibh. Nec ullamcorper amet tortor, velit. Dictum pellentesque dolor sit duis sed nibh. Euismod rutrum pellentesque semper mattis aliquet ornare. Cursus maecenas massa, arcu ac adipiscing odio facilisis ac eu. In eget ipsum, sed ultrices tempor consequat, elementum cras porta. Sagittis etiam dictumst at duis praesent a. Malesuada odio amet aenean diam. Tincidunt lorem faucibus neque aliquet lobortis feugiat sed aliquam pulvinar. Praesent aliquet ut tempus feugiat placerat quis duis mauris nibh. Eu ullamcorper id feugiat sit risus turpis mi. Tristique posuere sed convallis magna eu vulputate. Cum sit in hac felis blandit. Cursus eu porta lectus mollis nisi, consectetur ac. Ornare vitae lectus iaculis nibh ac et. Adipiscing amet in parturient etiam fames. Facilisi id eu sem in elementum. Lacus, ipsum morbi vel purus ut arcu laoreet id eu. Libero, tincidunt aliquet parturient dolor sapien faucibus nunc. In ipsum suscipit nec pharetra non vitae sagittis aenean sit. Consequat integer sit netus pellentesque scelerisque ut. Elit augue dui viverra facilisi varius. Volutpat iaculis eu ipsum ut. Dui, ut viverra ut amet magna in in varius. Aliquet penatibus pretium feugiat lobortis. Mauris nunc, eu non massa donec sit duis. Libero nascetur mauris, ac in aliquet cras duis donec. Sit porttitor sociis aliquam aliquet odio arcu a viverra. Proin convallis bibendum venenatis non orci id proin vitae. Faucibus eleifend fermentum sit dictum sagittis fermentum. At id nisi, aliquet ut sagittis proin enim. Eget in aenean mi a elit viverra amet urna, diam. Cursus id viverra amet adipiscing. Pretium, amet amet mi mauris urna, maecenas. Risus ut sit quis donec. Lacinia elementum, amet gravida convallis elementum, metus cras. Adipiscing suspendisse etiam tellus tellus arcu. At accumsan rhoncus, fringilla ut scelerisque consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ornare convallis non etiam tincidunt tincidunt. Non dolor vel purus id. Blandit habitasse volutpat id dolor pretium, sem iaculis. Faucibus commodo mauris enim, turpis blandit. Porttitor facilisi viverra mi lacus lacinia accumsan. Pellentesque gravida ligula bibendum aliquet nulla massa elit. Ac faucibus donec sit morbi pharetra urna. Vel facilisis amet placerat ultrices lobortis proin nulla.",
-    "date":"June 15th, 2021",
+    "titleBlog":"Dolphins make a splash in New York City’s Bronx River",
+    "text":"CNN
+     — 
+    Dolphins are swimming their way back to New York City’s Bronx River for the first time in over five years.
+
+    In this still from a video, dolphin Delta pushes a button as part of research into the effects of underwater noise pollution.
+    Human-made noise makes it harder for dolphins to work together, study finds
+    On Monday, a pair of dolphins were spotted in the river, which flows through southeast New York, according to the New York City Department of Parks and Recreation. The department posted a video of the cetaceans bobbing through the water at Starlight Park on Twitter.
+
+    “It’s true—dolphins were spotted in the Bronx River this week!” wrote the department. “This is great news—it shows that the decades-long effort to restore the river as a healthy habitat is working. We believe these dolphins naturally found their way to the river in search of fish.”
+
+    The department encouraged New Yorkers to “welcome these dolphins to the Boogie Down.”
+
+    But despite how tempting it might be to get a closer look at the aquatic animals, the department also advised spectators to “make sure that they’re comfortable during their visit by giving them space and not disturbing them.”
+
+    This is the first time dolphins have been seen in the Bronx River since 2017, the department told CNN over email. Dolphins were spotted in the East River as recently as last year.
+
+    The department explained it restocks the river with alewife and other fish, which likely attracted the dolphins.
+
+    The Bronx River Alliance, a nonprofit that works to protect and restore the river, also confirmed the sightings on social media.
+
+    “There seems to be more dolphin pods swimming near NY Harbor!” wrote the nonprofit. “We are not sure why but authorities are further investigating their presence and we will keep you updated as we get more info.”
+
+    Bottlenose dolphins are found off both the West and East Coasts as well as in the Gulf of Mexico and in the Caribbean, according to the National Oceanic and Atmospheric Agency. The species are protected throughout the nation under the Marine Mammal Protection Act, which makes it illegal to feed or harass the animals. They have faced population decline due to habitat destruction, pollution, and entanglement with fishing gear.";
+    "date":"January 24st, 2023",
     "category":"culture"
   },
   {
     "id": "3",
-    "titleBlog": "Third blog title",
-    "text": "This is text of third blog Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ornare convallis non etiam tincidunt tincidunt. Non dolor vel purus id. Blandit habitasse volutpat id dolor pretium, sem iaculis. Faucibus commodo mauris enim, turpis blandit. Porttitor facilisi viverra mi lacus lacinia accumsan. Pellentesque gravida ligula bibendum aliquet nulla massa elit. Ac faucibus donec sit morbi pharetra urna. Vel facilisis amet placerat ultrices lobortis proin nulla. Molestie tellus sed pellentesque tortor vitae eu cras nisl. Sem facilisi amet vitae ultrices nullam tellus. Pellentesque eget iaculis morbi at quis eget lacus, aliquam etiam. Neque ipsum, placerat vel convallis nulla orci, nunc etiam. Elementum risus facilisi mauris diam amet et sed. At aliquet id amet, viverra a magna lorem urna. Nibh scelerisque quam quam massa amet, sollicitudin vel non. Gravida laoreet neque tincidunt eu egestas massa vitae nibh. Nec ullamcorper amet tortor, velit. Dictum pellentesque dolor sit duis sed nibh. Euismod rutrum pellentesque semper mattis aliquet ornare. Cursus maecenas massa, arcu ac adipiscing odio facilisis ac eu. In eget ipsum, sed ultrices tempor consequat, elementum cras porta. Sagittis etiam dictumst at duis praesent a. Malesuada odio amet aenean diam. Tincidunt lorem faucibus neque aliquet lobortis feugiat sed aliquam pulvinar. Praesent aliquet ut tempus feugiat placerat quis duis mauris nibh. Eu ullamcorper id feugiat sit risus turpis mi. Tristique posuere sed convallis magna eu vulputate. Cum sit in hac felis blandit. Cursus eu porta lectus mollis nisi, consectetur ac. Ornare vitae lectus iaculis nibh ac et. Adipiscing amet in parturient etiam fames. Facilisi id eu sem in elementum. Lacus, ipsum morbi vel purus ut arcu laoreet id eu. Libero, tincidunt aliquet parturient dolor sapien faucibus nunc. In ipsum suscipit nec pharetra non vitae sagittis aenean sit. Consequat integer sit netus pellentesque scelerisque ut. Elit augue dui viverra facilisi varius. Volutpat iaculis eu ipsum ut. Dui, ut viverra ut amet magna in in varius. Aliquet penatibus pretium feugiat lobortis. Mauris nunc, eu non massa donec sit duis. Libero nascetur mauris, ac in aliquet cras duis donec. Sit porttitor sociis aliquam aliquet odio arcu a viverra. Proin convallis bibendum venenatis non orci id proin vitae. Faucibus eleifend fermentum sit dictum sagittis fermentum. At id nisi, aliquet ut sagittis proin enim. Eget in aenean mi a elit viverra amet urna, diam. Cursus id viverra amet adipiscing. Pretium, amet amet mi mauris urna, maecenas. Risus ut sit quis donec. Lacinia elementum, amet gravida convallis elementum, metus cras. Adipiscing suspendisse etiam tellus tellus arcu. At accumsan rhoncus, fringilla ut scelerisque consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ornare convallis non etiam tincidunt tincidunt. Non dolor vel purus id. Blandit habitasse volutpat id dolor pretium, sem iaculis. Faucibus commodo mauris enim, turpis blandit. Porttitor facilisi viverra mi lacus lacinia accumsan. Pellentesque gravida ligula bibendum aliquet nulla massa elit. Ac faucibus donec sit morbi pharetra urna. Vel facilisis amet placerat ultrices lobortis proin nulla.",
-    "date":"June 1st, 2021",
-    "category":"sport"
+    "titleBlog": "Top Ukrainian officials quit in anti-corruption drive",
+    "text": "Several senior Ukrainian officials have resigned amid a shake-up of personnel across President Volodymyr Zelensky's government.
+
+A key presidential adviser, the deputy defence minister and deputy prosecutor general left their posts on Tuesday.
+
+Mr Zelensky has signalled more top officials may be on the way out, as he hopes to clamp down on corruption.
+
+One of the officials - Kyrylo Tymoshenko - was implicated in scandals over his use of expensive cars.
+
+Mr Zelensky was responding to a "key public demand" that justice should apply to everyone, said top adviser Mykhailo Podolyak.
+
+The corruption crackdown follows reports in Ukrainian media that the country's defence ministry paid inflated prices with a relatively unknown firm for food supplies. Meanwhile, another minister was arrested on bribery charges on Monday.
+
+Mr Zelensky has already banned top government officials from leaving the country unless on official state business.
+
+The first to resign on Tuesday was Mr Tymoshenko, the president's deputy head of office, who oversaw regional policy and had earlier worked on Mr Zelensky's election campaign.
+
+Since Russia launched its invasion of Ukraine last February he has become a frequent spokesperson for the government. In a Telegram post, he thanked Mr Zelensky for "the opportunity to do good deeds every day and every minute".
+
+Deputy Defence Minister Vyacheslav Shopalov has also resigned, following reports that he oversaw the controversial deal for the military's food supplies. The department called this a "technical mistake" and claimed no money had changed hands.
+
+The defence minister himself - Oleksii Reznikov - has been under scrutiny for the same reason.
+
+And Deputy Prosecutor General Oleskiy Symonenko was removed from his post "according to his own wish", his office said.
+
+Ukraine has a history of corruption and in 2021 Transparency International has ranked the country at 122 out of 180 countries in its ranking of corrupt states.
+
+A crackdown is one of the EU's key demands if the country is to advance its application to join the bloc.
+
+In an address on Sunday, Mr Zelensky promised there would be "no return to what used to be in the past, to the way various people close to state institutions" used to live.
+
+His comments followed the arrest of Ukraine's deputy infrastructure minister Vasyl Lozinskyi on Saturday on suspicion of accepting a bribe worth over $350,000 (£285,000) over the supply of electricity generators. He has denied the charges.
+
+David Arakhamia, the head of Mr Zelensky's Servant of the People party, has pledged that corrupt officials could face jail time.
+
+"Officials at all levels have been constantly warned through official and unofficial channels: focus on the war, help the victims, reduce bureaucracy and stop doing dubious business. Many of them have actually listened, but some, unfortunately, did not," he said in a Telegram statement.
+
+"If it doesn't work in a civilized way, it will be done according to the laws of wartime. This applies both to recent purchases of generators and to fresh scandals in the ministry of defence."
+
+A report by Ukrainian newspaper Ukrainska Pravda suggests the heads of four regional administrations - Sumy, Dnipro, Zaporizhzhia and Kherson - may be the next to go after Mr Tymoshenko, due to their links to the resigned presidential aide.
+
+While there have been anti-corruption reforms in recent years, the stakes are high for Kyiv - which is receiving billions of dollars worth of financial aid from Western allies.";
+    "date":"January 23, 2023",
+    "category":"BBC"
   },
   {
     "id":"4",
